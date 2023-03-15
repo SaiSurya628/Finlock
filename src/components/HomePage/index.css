@@ -1,0 +1,35 @@
+.main{
+    display:flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    min-width: 770px;
+    margin-top: 10px;
+}
+.design{
+    text-align: center;
+}
+
+
+.para{
+    text-align: right;
+    color:blue;
+    font-size:10px;
+}
+.head{
+    font-weight:bold;
+    text-align: center;
+    font-size:30px;
+}
+.icon{
+    color:darkblue;
+    height: 50px;
+    width: 50px;
+    
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(37, 37, 37, 0.2);
+    
+}
